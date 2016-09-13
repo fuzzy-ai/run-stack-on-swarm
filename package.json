@@ -1,0 +1,7 @@
+{
+  "name": "run-stack-on-swarm",
+  "description": "Run a Docker Cloud stack file on a Docker 1.12 swarm",
+  "dependencies": {
+    "js-yaml": "^3.6.1"
+  }
+}
